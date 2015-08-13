@@ -1,0 +1,11 @@
+{
+  "name": "aj-boilerplate",
+  "version": "0.0.1",
+  "description": "startup project of angularjs app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexandre joyeux",
+  "license": "ISC"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "aj-boilerplate",
+  "version": "0.0.1",
+  "authors": [
+    "alexandre joyeux"
+  ],
+  "description": "startup project for angular app",
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
